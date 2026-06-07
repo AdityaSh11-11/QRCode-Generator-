@@ -47,7 +47,7 @@ It also demonstrates skills in:
 
 ---
 
-## 📈 Future Enhancements
+## Future Enhancements
 
 - Add QR code scanning feature
 - Generate QR codes with logos
@@ -57,6 +57,6 @@ It also demonstrates skills in:
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 This project is built for educational and personal productivity purposes.
